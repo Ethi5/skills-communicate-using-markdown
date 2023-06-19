@@ -16,7 +16,7 @@ int main()
 }
 ```
 
-- [x] My First Task
+- [] My First Task
 - [] My Second Task
 - [] My Third Task
 
